@@ -21,7 +21,7 @@ Use generative AI like ChatGPT to write all or most of the code. For more comple
 
 ## Video
 
-[![Watch the video]](https://youtu.be/AUsiRsaje8Q)
+[Watch the video](https://youtu.be/AUsiRsaje8Q)
 
 ## Running the game
 
