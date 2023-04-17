@@ -5,10 +5,11 @@
 ## Contents
 
 1. [Short description](#short-description)
-1. [Video](#video)
-1. [Running the game](#running-the-game)
-1. [Example game session](#example-game) 
-3. [License](#license)
+1. [Prompt engineering](#prompt-engineering)
+3. [Video](#video)
+4. [Running the game](#running-the-game)
+5. [Example game session](#example-game) 
+6. [License](#license)
 
 ## Short description
 
@@ -19,6 +20,18 @@ Making games is hard and require lots of coding and testing.
 ### How can technology help?
 
 Use generative AI like ChatGPT to write all or most of the code. For more complex games, use ChatGPT to create an outline and game template. You will have to create the graphics but you can use generative AI like DALL-E for assistance. You also need more code to fill in the details, but you can prompt ChatGPT to write the code for you.
+
+## Prompt engineering
+
+Start with simple ChatGPT prompts, then progressively add more features. Prompts such as the following were entered in order to create a game like the one in this repo.
+```
+python simple dungeon crawler with monsters and exit
+python dungeon crawler monster with simple pathfinding
+python role playing battle system
+python role playing battle system with random monsters
+python role playing battle system with skills
+python role playing battle system with skills and difficulties
+```
 
 ## Video
 
