@@ -17,11 +17,11 @@ Making games is hard and require lots of coding and testing.
 
 ### How can technology help?
 
-Use generative AI like ChatGPT to write all or most of the code. For more complex games, use ChatGPT to create an outline and game template. You will have to create the graphics. You also need more code to fill in the details, but you can prompt ChatGPT to write the code for you.
+Use generative AI like ChatGPT to write all or most of the code. For more complex games, use ChatGPT to create an outline and game template. You will have to create the graphics but you can use generative AI like DALL-E for assistance. You also need more code to fill in the details, but you can prompt ChatGPT to write the code for you.
 
 ## Video
 
-[Watch the video](https://youtu.be/AUsiRsaje8Q)
+[Watch the video](https://youtu.be/Sl5CSqrMZzs)
 
 ## Running the game
 
